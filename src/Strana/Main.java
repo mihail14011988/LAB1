@@ -19,7 +19,7 @@ public class Main {
 
 
         };
-        System.out.println("Приветgygfh");
+        System.out.println("Приветggfhfghygfh");
         Country.printAll(massive);
             }
 
