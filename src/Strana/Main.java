@@ -19,7 +19,7 @@ public class Main {
 
 
         };
-        System.out.println("Пр");
+        System.out.println("b);
         Country.printAll(massive);
             }
 
